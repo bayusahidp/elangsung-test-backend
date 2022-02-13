@@ -17,3 +17,11 @@ Aplikasi sudah berjalan pada http://localhost:8000
 API
 
 baseURL = "http://localhost:8000/api"
+
+Akun admin
+- username : admin
+- password : password
+
+Akun user
+- username : user
+- password : password
